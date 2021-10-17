@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(182, 255, 251);
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

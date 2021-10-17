@@ -1,4 +1,4 @@
 # odin-recipes
-Small test website that will host our small collection or random recipes
+Small test website that will host our small collection of random recipes
 
-I will try to implement the knowledge I have learned about HTML. This will include non-self enclosing tags as well as self-enclosed tags such as img and anchor tags. 
+This will include some early implementation of my knowledge of HTML and CSS.
